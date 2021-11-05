@@ -1,0 +1,13 @@
+/* Change the codes as you want. */
+
+.headerText {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(56, 53, 53);
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+.headerText > .successText {
+    color: #48e40a;
+}
